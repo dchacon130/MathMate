@@ -1,0 +1,24 @@
+{
+  "name": "mathmate",
+  "version": "1.0.0",
+  "description": "Covers the fundamental mathematical operations: addition, subtraction, multiplication, and division.",
+  "keywords": [
+    "Practice",
+    "Learning"
+  ],
+  "homepage": "https://github.com/dchacon130/MathMate#readme",
+  "bugs": {
+    "url": "https://github.com/dchacon130/MathMate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchacon130/MathMate.git"
+  },
+  "license": "ISC",
+  "author": "Diego Chacon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
